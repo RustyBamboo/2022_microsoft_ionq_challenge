@@ -1,0 +1,4 @@
+qiskit
+azure-quantum[qiskit]
+numpy
+pygame
